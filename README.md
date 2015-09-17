@@ -44,7 +44,16 @@ To change number of stones - run set(stones, Integer). To change search depth - 
 
 ### Default Settings
 
-stones = 6. statespaceDepth = 3. pauseDuration = 0.25. Player1 algorithm = manual. Player2 algorthm = minimax.
+stones = 6.
+
+statespaceDepth = 3. 
+
+pauseDuration = 0.25. 
+
+Player1 algorithm = manual. 
+
+Player2 algorthm = minimax. 
+
 
 ### Starting the Game
 
