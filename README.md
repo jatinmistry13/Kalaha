@@ -20,19 +20,19 @@ Note: The full-stop (dot) after the command is necessary for the command to exec
 
 ### Game Rules
 
-1 A player can start his/her move from any non-empty pit from his/her side of the board.
-2 The player cannot start his/her move using the pieces on the opponents side of the board.
-3 The players Kalaha, the players pits and the opponents pits are included in sowing. Opponents Kalaha is not included in sowing.
-4 Seeds are sowed in counter-clockwise (anti-clockwise) direction.
-5 The player cannot sow any of his/her seeds into the opponents Kalaha. i.e. we have to wrap around opponents Kalaha without placing any stone there.
-6 If the last seed land in the players Kalaha, the players score increases by 1 and he retain the right to continue playing.
-7 If the last seed does not end up in the players Kalaha, the player loses his/her turn.
-8 If last seed on opponents side in a bowl where there are 2 or 3 stones then those stones be will moved to players Kalaha. This shall be repeated clockwise until in the bowl.
-9 We cannot seed into the original hole from which the stones were picked.
-10 If the last counter is put into an empty hole on the players side of the board, a capture takes place: all stones in the opponents pit opposite and the last sto the opponent moves next.
-11 If the last counter is put anywhere else, it is now the opponents turn.
-12 The seeds that are being captured or the seeds that has entered both players Kalaha do not re-enter the game. The game value of this game thus depends on the co t captured.
-13 When a players all holes are completely empty, the game ends. The player who still has stones left in his holes captures those stones and puts them in his Kalaha. The players then compare their Kalaha. The player with most stones wins.!!
+1. A player can start his/her move from any non-empty pit from his/her side of the board.
+2. The player cannot start his/her move using the pieces on the opponents side of the board.
+3. The players Kalaha, the players pits and the opponents pits are included in sowing. Opponents Kalaha is not included in sowing.
+4. Seeds are sowed in counter-clockwise (anti-clockwise) direction.
+5. The player cannot sow any of his/her seeds into the opponents Kalaha. i.e. we have to wrap around opponents Kalaha without placing any stone there.
+6. If the last seed land in the players Kalaha, the players score increases by 1 and he retain the right to continue playing.
+7. If the last seed does not end up in the players Kalaha, the player loses his/her turn.
+8. If last seed on opponents side in a bowl where there are 2 or 3 stones then those stones be will moved to players Kalaha. This shall be repeated clockwise until in the bowl.
+9. We cannot seed into the original hole from which the stones were picked.
+10. If the last counter is put into an empty hole on the players side of the board, a capture takes place: all stones in the opponents pit opposite and the last sto the opponent moves next.
+11. If the last counter is put anywhere else, it is now the opponents turn.
+12. The seeds that are being captured or the seeds that has entered both players Kalaha do not re-enter the game. The game value of this game thus depends on the co t captured.
+13. When a players all holes are completely empty, the game ends. The player who still has stones left in his holes captures those stones and puts them in his Kalaha. The players then compare their Kalaha. The player with most stones wins.!!
 
 ### Log file
 
