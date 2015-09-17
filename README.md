@@ -40,7 +40,18 @@ A log file of the current game is created and all moves will be stored in this f
 
 ### Alter Settings
 
-To change number of stones - run set(stones, Integer). To change search depth - run set(statespaceDepth, Integer). To change the pause duration between each move to have a look at the moves made - run set(pauseDuration, Float). To change player 1 alorithm - run set(player1, X). To change player 2 alorithm - run set(player2, X). X is one of [manual, minimax, alphabeta].
+To change settings execute forllowing:
+number of stones ==> set(stones, Integer). 
+
+search depth ==> set(statespaceDepth, Integer). 
+
+pause duration between each move to have a look at the moves made ==> set(pauseDuration, Float). 
+
+player 1 alorithm ==> set(player1, X).
+
+player 2 alorithm ==> set(player2, X). 
+
+where `X` is one of [manual, minimax, alphabeta].
 
 ### Default Settings
 
